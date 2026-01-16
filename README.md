@@ -5,7 +5,7 @@ FullStack Developer, Data Science
 ---------------------------------
 
 * 🌍  I'm based in Bangkok
-* ✉️  You can contact me at [kamolwit.n@ku.th](mailto:kamolwit.work@gmail.com)
+* ✉️  You can contact me at [kamolwit.work@gmail.com](mailto:kamolwit.work@gmail.com)
 * 🧠  I'm currently learning FastAPI, Spring Boot, Oracle
 
 <p align="left">
