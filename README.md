@@ -1,6 +1,5 @@
-# 💫 About Me:
-Hi, I'm Kamolwit — a Junior Full-Stack Developer experienced in building web applications with React, Next.js, NestJS, and Laravel.<br><br>I design databases, build RESTful APIs, and ship full-stack systems end-to-end.<br><br>Currently looking for a team to grow with as a Full Stack Developer.
-
+# Hi, I'm Kamolwit (Ace)✌
+Junior Full Stack Developer experienced in building web applications with React, Vue.js, NestJS, and Laravel.<br><br>I design databases, build RESTful APIs, and ship full-stack systems end-to-end.<br><br>Currently looking for a team to grow with as a Full Stack Developer.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kamolwit-namboot-308ab437a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kamolwit.work@gmail.com) 
