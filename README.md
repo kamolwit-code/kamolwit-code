@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Kamolwit<br><br>A recent Computer Science graduate with a passion for Full Stack Development.<br>I enjoy building web applications and turning ideas into real-world solutions.<br><br>Currently seeking opportunities as a Full Stack Developer.
+Hi, I'm Kamolwit — a Junior Full-Stack Developer experienced in building web applications with React, Next.js, NestJS, and Laravel.<br><br>I design databases, build RESTful APIs, and ship full-stack systems end-to-end.<br><br>Currently looking for a team to grow with as a Full Stack Developer.
 
 
 ## 🌐 Socials:
